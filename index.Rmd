@@ -1,0 +1,18 @@
+---
+title: "Amber Podmore"
+image: "https://media-exp1.licdn.com/dms/image/C5603AQERegHF1Z3iCw/profile-displayphoto-shrink_800_800/0/1517509877934?e=1646265600&v=beta&t=k6Q4WN-JI7gh1hnAjusXs65GzVUK24LxlLXwCiKsTxk"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/amber-podmore-she-her-41594370/"
+  - label: instagram
+    url: "https://instagram.com/_amberjp?utm_medium=copy_link"
+  - label: Email
+    url: "mailto:apodmore93@hotmail.co.uk"
+  - label: cv
+    url: "cv.pdf"
+output:
+  postcards::jolla
+---
+ 
+I am a temporary accomadation worker for north east Manchester. 
+Currently I work for Oldham Council. I love reading and dog Leo.
